@@ -18,10 +18,14 @@
 
     <modules>
         <module>../methyl-it-root/</module>
-        <module>../methyl-it-r-interface/</module>
-        <module>../methyl-it-test-r-libraries/</module>
-        <module>../methyl-it-rserve/</module>
-        <module>../methyl-it-api/</module>
+        <module>../r-interface/methyl-it-rserve/</module>
+        <module>../examples/methyl-it-test-r-libraries</module>
+        <module>../r-interface/methyl-it-r-interface/</module>
+        <module>../r-interface/methyl-it-fast-api-client/</module>
+        <module>../services/srv-config</module>
+        <module>../services/srv-discovery</module>
+        <module>../services/srv-pipeline-runner/</module>
+        <module>../services/srv-gateway</module>
     </modules>
 
 </project>
