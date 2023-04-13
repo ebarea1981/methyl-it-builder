@@ -26,6 +26,7 @@
         <module>../services/srv-discovery</module>
         <module>../services/srv-pipeline-runner/</module>
         <module>../services/srv-gateway</module>
+        <module>../libraries/store-utils-spring-starter</module>
     </modules>
 
 </project>
