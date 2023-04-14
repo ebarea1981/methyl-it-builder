@@ -22,10 +22,7 @@
         <module>../examples/methyl-it-test-r-libraries</module>
         <module>../r-interface/methyl-it-r-interface/</module>
         <module>../r-interface/methyl-it-fast-api-client/</module>
-        <module>../services/srv-config</module>
-        <module>../services/srv-discovery</module>
-        <module>../services/srv-pipeline-runner/</module>
-        <module>../services/srv-gateway</module>
+        <module>../services/srv-root</module>
         <module>../libraries/store-utils-spring-starter</module>
     </modules>
 
