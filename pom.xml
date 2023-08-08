@@ -26,6 +26,7 @@
         <module>../services/srv-discovery</module>
         <module>../services/srv-gateway</module>
         <module>../services/srv-pipeline-runner</module>
+        <module>../services/srv-notification</module>
 
         <module>../libraries/store-utils-spring-starter</module>
         <module>../examples/methyl-it-test-r-libraries</module>
